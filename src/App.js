@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 import {Header} from "./container/Header"
 import {Balance} from "./container/Balance"
